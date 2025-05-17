@@ -4,3 +4,4 @@ A data pipeline for processing HL7 messages using Confluent Kafka, GKE,GCS, Clou
 ## Structure
 - `producer/`: Kafka producer for HL7 messages.
 - `scripts/`: Utility scripts (e.g., testing, deployment).
+- `configs/`: Configuration files (e.g., Kafka credentials).
